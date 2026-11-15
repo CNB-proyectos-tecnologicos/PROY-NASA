@@ -1,0 +1,145 @@
+{
+  "fecha": "2026-11-14",
+  "files": [
+    {
+      "path": "01_catalogo/INDICE_723_REGLAS.csv",
+      "bytes": 153893,
+      "sha256": "0b1cfb91bcc85e8e9ab8829b7edd7ee7cc3f5eaf2dbb209938b8f0902fdd96aa"
+    },
+    {
+      "path": "01_catalogo/MATRIZ_OBSERVABILIDAD_CON_SENSORES_ORIGINALES.md",
+      "bytes": 5181,
+      "sha256": "932633454c35e75b4e2a34aff9f22cc0bcd59861708e61d542c2b5b35efa7537"
+    },
+    {
+      "path": "01_catalogo/SALUD_ASTRONAUTAS_211_REGLAS_Y_EVIDENCIA.xlsx",
+      "bytes": 76387,
+      "sha256": "e2256da95c7805b10c38e8e1cead7f31cd656b18b908d75cce5e3e658d36747e"
+    },
+    {
+      "path": "01_catalogo/diccionario_variables.csv",
+      "bytes": 21098,
+      "sha256": "df0526b7200eb4dc2914d201bacddcba3f4e42fa3742de4000c24076644b8c50"
+    },
+    {
+      "path": "01_catalogo/reglas_espaciales.csv",
+      "bytes": 168970,
+      "sha256": "d839f9ca6470e812ef13137ccac5b1f870aa0e7b3b2a52506954ae3196e43a30"
+    },
+    {
+      "path": "01_catalogo/reglas_espaciales.json",
+      "bytes": 294858,
+      "sha256": "4d767e91288fe32f7f319627e05c67d59302d1511f62728736340134c0c2269b"
+    },
+    {
+      "path": "02_literatura/CATALOGO_COMENTADO_40_FUENTES.md",
+      "bytes": 49337,
+      "sha256": "b59f229d37ec85d368c12fa3205ee146939ad4f486fd9a9944b43790d8ff8b48"
+    },
+    {
+      "path": "02_literatura/EXTRACTOS_BREVES_Y_ANOTACIONES.csv",
+      "bytes": 14866,
+      "sha256": "abc7961f088ab3ee0eb4fd41cb68bf017426f735ef2222567ea4a6096a500d03"
+    },
+    {
+      "path": "02_literatura/FICHAS_TRAZABILIDAD_TODAS_REGLAS.md",
+      "bytes": 217131,
+      "sha256": "a009233473e8757dbe16748a6f295db5e72fde3dd8eaf99c693455b791743962"
+    },
+    {
+      "path": "02_literatura/FUENTES.csv",
+      "bytes": 7841,
+      "sha256": "55545a5dabc683a601b15b76a5e493d393d162959885d4d21a5acf99e311c835"
+    },
+    {
+      "path": "03_modelos/EJEMPLOS_NUMERICOS.json",
+      "bytes": 2338,
+      "sha256": "75fa05f2c0b24d70d54071e5487de4ba1273991fd981651ce8de9043942951ec"
+    },
+    {
+      "path": "03_modelos/METODOS_FORMULAS_Y_DISTRIBUCIONES.md",
+      "bytes": 10627,
+      "sha256": "65a3a37f625693c34b2937bff971e570b90672a32c6d4fd009778b56f474b34f"
+    },
+    {
+      "path": "04_decisiones/INFORME_DE_JUSTIFICACIONES.md",
+      "bytes": 14428,
+      "sha256": "e29c6160c6f04d8226251102f9c8193510f65e1ab39f1194ecfdba5ac8c6aebc"
+    },
+    {
+      "path": "04_decisiones/MATRIZ_211_DECISIONES_DE_REGLA.csv",
+      "bytes": 94546,
+      "sha256": "0096453624452385f5a7cb4fa047451f1b45f0c22106d934bd8fc3c816b05b91"
+    },
+    {
+      "path": "05_validacion/AUDITORIA_211_REGLAS.csv",
+      "bytes": 27150,
+      "sha256": "2d2aa8eef6138ec92ffe5c05e17b11428131ec6e30f23b62284855595c819f7f"
+    },
+    {
+      "path": "05_validacion/CASOS_SINTETICOS_Y_COMPORTAMIENTO_ESPERADO.md",
+      "bytes": 4341,
+      "sha256": "8e7ea2d36b6b43ac2e8d93b8f4a46b99b8192c0c3d6c22d265474fe9abb27597"
+    },
+    {
+      "path": "05_validacion/INFORME_DE_AUDITORIA.md",
+      "bytes": 1088,
+      "sha256": "f00ecbc765fa40d8028a4070905579ecb8dd057bb28c5a3d969119146a18ad11"
+    },
+    {
+      "path": "05_validacion/METRICAS_INVENTARIO.json",
+      "bytes": 1564,
+      "sha256": "18c1f3edbb88d0eb2b1a84634a807d93754802c3a2f238d090c49de923dff730"
+    },
+    {
+      "path": "05_validacion/PROTOCOLO_VALIDACION_CLINICO_OPERATIVA.md",
+      "bytes": 4825,
+      "sha256": "2bfa1b6504149ef1da79ab606745cc1c18bf1a5124e1d4f4e31fc608db1fc857"
+    },
+    {
+      "path": "05_validacion/RESULTADO_TESTS.txt",
+      "bytes": 1412,
+      "sha256": "df00d9b51eb77ece9a280e6eb0d2e9c6ea983ca1b268a1f64e87d887a16abb69"
+    },
+    {
+      "path": "05_validacion/RESUMEN_AUDITORIA.json",
+      "bytes": 596,
+      "sha256": "d2759d39afdb89a05a29db464f9cd486fa9551f74137d4267e8fb15587f0aa47"
+    },
+    {
+      "path": "06_codigo/construir_paquete.py",
+      "bytes": 74324,
+      "sha256": "7a7fb3ac289d50bbdc010fe132ebd73ee60a95704a9e9790e20354e923c42c99"
+    },
+    {
+      "path": "06_codigo/finalizar_paquete.py",
+      "bytes": 12035,
+      "sha256": "1dc1a2d0c4825f385cc72c3e3dc2e49b31d9d5e1bbd2e19a065491a69d691b27"
+    },
+    {
+      "path": "06_codigo/modelos_espaciales.py",
+      "bytes": 7963,
+      "sha256": "888ecdbe65dd57f786599df8bbac8fb850984913953b65829664b25a6e634c7f"
+    },
+    {
+      "path": "06_codigo/test_modelos_espaciales.py",
+      "bytes": 1996,
+      "sha256": "83cfe32207defcdbbc52af5cc0806020d464c0b260d8f00565cec9b418542891"
+    },
+    {
+      "path": "07_antecedentes/ANTECEDENTES_Y_SECUELAS.csv",
+      "bytes": 3633,
+      "sha256": "a8cb57a5424fbc46c9a5e0c00029a1dca85e3633f55fbaf75ad018bf2a3a1824"
+    },
+    {
+      "path": "08_base_terrestre/motor_alertas_biometricas_integral_fuentes_y_decisiones_v04.zip",
+      "bytes": 539329,
+      "sha256": "8f5cef616e3025471686411004a0baac8ed6739afdafd6a762a9621890852a6c"
+    },
+    {
+      "path": "LEEME_PRIMERO.md",
+      "bytes": 4279,
+      "sha256": "dbc81ee2be9459cd13e45164e1853b7755a468d5f936772fd25c57a0e817d7f1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+
+test_alert_abstain (test_modelos_espaciales.TestAstronautHealth.test_alert_abstain) ... ok
+test_audio_85 (test_modelos_espaciales.TestAstronautHealth.test_audio_85) ... ok
+test_audio_88 (test_modelos_espaciales.TestAstronautHealth.test_audio_88) ... ok
+test_bad_sensor (test_modelos_espaciales.TestAstronautHealth.test_bad_sensor) ... ok
+test_co2 (test_modelos_espaciales.TestAstronautHealth.test_co2) ... ok
+test_missing (test_modelos_espaciales.TestAstronautHealth.test_missing) ... ok
+test_o2 (test_modelos_espaciales.TestAstronautHealth.test_o2) ... ok
+test_o2_invalid (test_modelos_espaciales.TestAstronautHealth.test_o2_invalid) ... ok
+test_radiation_600 (test_modelos_espaciales.TestAstronautHealth.test_radiation_600) ... ok
+test_sans (test_modelos_espaciales.TestAstronautHealth.test_sans) ... ok
+test_sans_A (test_modelos_espaciales.TestAstronautHealth.test_sans_A) ... ok
+test_strength (test_modelos_espaciales.TestAstronautHealth.test_strength) ... ok
+test_vo2_mission_gating (test_modelos_espaciales.TestAstronautHealth.test_vo2_mission_gating) ... ok
+test_vte_missing (test_modelos_espaciales.TestAstronautHealth.test_vte_missing) ... ok
+test_vte_score (test_modelos_espaciales.TestAstronautHealth.test_vte_score) ... ok
+test_wilson (test_modelos_espaciales.TestAstronautHealth.test_wilson) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.000s
+
+OK

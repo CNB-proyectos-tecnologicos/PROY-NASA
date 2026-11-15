@@ -1,0 +1,41 @@
+﻿id,titulo,anio,localizador,url,advertencia
+N01,NASA-STD-3001 Vol 1 Rev C,2023,"Norma de salud tripulación, capítulos 3-4",https://www.nasa.gov/reference/4-0-human-performance/,"Norma técnica, aplicabilidad según misión"
+N02,NASA-STD-3001 Vol 2 Rev F,2026,6.2 atmósfera 6.3 agua 6.6 acústica,https://www.nasa.gov/reference/6-0-natural-and-induced-environments-vol-2/,Norma técnica de sistemas; NO diagnóstico individual
+N03,NASA OCHMO VTE Risk Score,2026,Figura/tabla VTE risk score p. 4; NASA/SP-20260005258,https://www.nasa.gov/wp-content/uploads/2026/06/risk-venous-thromboembolism-assessment-sp20260005258.pdf,"Consenso NASA; no validación externa, puntos NO probabilidades"
+N04,SANS international expert consensus (Gew et al.),2026,"Tabla 2 y monitoring, DOI 10.1038/s41433-026-04651-6",https://www.nature.com/articles/s41433-026-04651-6,"Consenso 2026; OCT Spectralis, intervalos y cambio basal"
+N05,NASA Spaceflight Venous Thrombosis Working Group,2025,Contexto y ecografía yugular,https://www.nasa.gov/organizations/ochmo/risk-of-venous-thromboembolism-during-spaceflight/,Riesgo real; asintomático y no detectado por wearables
+N06,"JAMA Network Open, internal jugular venous stasis (11 crew)",2019,Resultados y ultrasonido,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2755307,"Cohorte de 11, insuficiente para riesgo individual"
+N07,NASA OCHMO CO2 Technical Brief,2025,CO2 associated headaches 7-day analysis,https://www.nasa.gov/ochmo-tb-004-carbon-dioxide-2/,"Modelo de cefalea sobre 49 astronautas, no aplicar como riesgo individual"
+N08,NASA Urinary Health Technical Brief,2026,"Sección cálculos renales, líquidos, orina y ecografía",https://www.nasa.gov/ochmo-mtb-003-urinary-health-2/,El volumen de agua disponible NO es ingesta medida
+N09,NASA Five Hazards,2025,Riesgos y marcos de exposición,https://www.nasa.gov/hrp/hazards/,Marco conceptual
+N10,NASA Human System Risks,2025,Taxonomía de riesgos,https://www.nasa.gov/hhp/human-system-risks/,"Inventario, no thresholds de enfermedad"
+N11,NASA Standard Measures,2025,Protocolo multidimensional,https://www.nasa.gov/reference/standard-measures/,Necesidad de instrumentos adicionales
+N12,Orthostatic intolerance spaceflight meta-analysis,2026,Meta-análisis Acta Astronautica; 221 astronautas,https://www.sciencedirect.com/science/article/pii/S0094576526003346,Incidencia 30% (IC95% 24-38); poblacional
+N13,Orthostatic hypotension: practical approach AAFP,2022,Definición postura y descenso PA,https://www.aafp.org/afp/2022/0100/p39,Diagnóstico con procedimiento postural
+N14,Spaceflight anemia: hemolysis Nat Med,2022,14 astronautas hemólisis,https://www.nature.com/articles/s41591-021-01637-7,54% aumento hemólisis promedio; NO umbral Hb
+N15,NASA Space radiation policy,2023,Vol 1 V1 4029/4030,https://www.nasa.gov/reference/4-0-human-performance/,600 mSv efectivo carrera y límites órganos; no riesgo absoluto personal
+N16,NASA muscle/bone countermeasures,2023,Monitorización músculo y hueso,https://www.nasa.gov/humans-in-space/counteracting-bone-and-muscle-loss-in-microgravity/,"Dato ~1%/mes sin contramedidas, no pronóstico individual"
+N17,ADA Standards 2026 glycemic goals,2026,"Tabla 6.2 CGM, TIR/TBR/TAR",https://diabetesjournals.org/care/article/49/Supplement_1/S132/163927/6-Glycemic-Goals-Hypoglycemia-and-Hyperglycemic,"Metas CGM para personas con diabetes, no diagnóstico"
+N18,AHA/ACC BP Guidelines,2025,Clasificación PA y precisión cuffless,https://www.jacc.org/doi/10.1016/j.jacc.2025.05.007,PA confirmada con método validado y protocolo
+N19,KDIGO CKD guideline 2024,2024,"Crónica ≥3 meses, eGFR y ACR",https://kdigo.org/guidelines/ckd-evaluation-and-management/,Confirmar función renal; eGFR depende de creatinina
+N20,Reproductive health in space systematic review,2024,"Eje reproductivo, 16 estudios",https://www.nature.com/articles/s41526-024-00351-1,"Evidencia escasa, suprimir inferencias fase ciclo"
+N21,NASA Health Standards and mission tailoring,2026,"Vols 1 y 2, perfiles de misión",https://www.nasa.gov/ochmo/human-spaceflight-and-aviation-standards/,Ajustes dependientes de programa
+N22,Spaceflight endocrine metabolic kidney review,2025,"Bioimpedancia, calcio, volumen",https://link.springer.com/article/10.1186/s12915-025-02471-w,Metabolismo espacial no completamente caracterizado
+N23,NASA cardiovascular vision fluid shift,2023,Adaptación volumen y ortostatismo,https://www.nasa.gov/directorates/esdmd/hhp/cardiovascular-and-vision/,Heterogeneidad según contramedidas
+N24,NASA sleep/cognitive hazards,2025,"Riesgo de sueño, disincronía, sobrecarga",https://www.nasa.gov/hrp/risks/,Actividad/HRV no diagnostican psiquiatría
+N25,NASA decompression/hypoxia risks,2025,EVA DCS e hipoxia,https://www.nasa.gov/humans-in-space/hhc-spaceflight-risks/,No sustituye protocolo EVA
+N26,NASA hearing risk,2025,Acoustic hazards,https://www.nasa.gov/directorates/esdmd/hhp/risk-of-hearing-loss-and-performance-decrements-due-to-acoustics-issues-in-space/,Sensores acústicos/audiometría no garantizados
+N27,NASA OCHMO water and atmospheric requirements,2026,V2 6026/6046/6109,https://www.nasa.gov/reference/6-0-natural-and-induced-environments-vol-2/,No equiparar suministro a ingesta
+N28,NASA human system risk board,2025,Marcos de fallos y dependencias,https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/,"DAGs y causalidad, no probabilidad clínica"
+N29,Spaceflight VTE evaluation NASA July,2026,Resumen de puntuación de riesgo y manejo,https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/,Apixabán no debe recomendarse por sistema automático
+N30,CDC/AHA Sleep at least 7 hours,2026,Datos población general 2024,https://www.cdc.gov/sleep/about/index.html,"Duración recomendada general, no corte NASA"
+N31,NASA postflight reconditioning,2023,Vol 1 4.1-4.7,https://www.nasa.gov/reference/4-0-human-performance/,"Evaluación del rendimiento, no enfermedad"
+N32,NASA Career Spaceflight 600 mSv policy,2023,V1 4030 límites de dosis por órgano,https://www.nasa.gov/reference/4-0-human-performance/,mGy-Eq vs mSv no intercambiables
+N33,Spaceflight human reproductive health 2025,2025,Menstrual suppression and knowledge gaps,https://www.nature.com/articles/s44294-025-00112-9,Fase ovulatoria puede ser no aplicable
+N34,NASA renal stone modelling,2025,NASA Glenn incidence quantification,https://www.nasa.gov/glenn/glenn-expertise-space-exploration/human-health-performance/computational-modeling/renal-stone-incidence-rate-quantification/,Sin datos completos no asignar probabilidad
+N35,NASA astronauts health standard measures,2025,"Sueño, luz, fluidos, cognición, equilibrio",https://www.nasa.gov/reference/standard-measures/,Fuente métodos; no valores umbral
+N36,WHO Hemoglobin assessment anemia,2024,Guía WHO anemia y límites por grupos,https://www.who.int/publications/i/item/9789240088542,"Referencia según población, embarazo y altitud"
+N37,NASA spacecraft environment and health,2026,"Tabla NASA V2 6.2 6.3, atmósfera",https://www.nasa.gov/reference/6-0-natural-and-induced-environments-vol-2/,Usar pp parcial y estado cabina; no convertir a SpO2
+N38,FDA pulse oximeter accuracy considerations,2025,Limitaciones precisión por pigmentación,https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters,SpO2 estimada no siempre coincide con SaO2
+N39,NASA acoustic noise formula V2 Rev F,2026,"6.6.1 ruido 24h, V2 6073",https://www.nasa.gov/reference/6-0-natural-and-induced-environments-vol-2/,Tolerancia ocupacional; medición dBA necesaria
+N40,NASA 2026 VTE report June,2026,Tabla p4 escala 1/2-3/4-6/>6,https://www.nasa.gov/wp-content/uploads/2026/06/risk-venous-thromboembolism-assessment-sp20260005258.pdf,Herramienta reciente no validada externamente

@@ -1,0 +1,192 @@
+﻿variable,unidad,disponibilidad,notas_de_calidad,periodicidad
+age_years,años,OBLIGATORIA,estatura no define edad,Prevuelo
+height_m,m,OBLIGATORIA,Adulto medir tierra,Prevuelo
+mass_kg,kg,OBLIGATORIA,"En órbita usar instrumento masa inercial, no peso",Prevuelo/órbita
+core_temp_c,°C,OBLIGATORIA,Central vs cutánea deben distinguirse,Continua o periódica
+ethnic_background_self_report,categoría,OBLIGATORIA,No usar como proxy causal ni predictor a ciegas,Declarativa
+cycle_phase,categoría/no aplica,CONDICIONAL,No forzar a quien no menstrúa ni usar si se suprime,Declarativa
+body_measurements,cm,OBLIGATORIA,Cambios cefálicos fluidos afectan cinturas,Semanal
+hr_series,lpm,OBLIGATORIA,ECG o PPG según hardware; comprobar movimiento,Continua
+bp_series,mmHg,OBLIGATORIA,Solo usable si presión clínicamente validada,Continua
+cgm_series,mg/dL,OBLIGATORIA,Intersticial no diagnóstica,Continua
+spo2_series,%,OBLIGATORIA,Perfusión/pigmentación/calibración,Continua
+mission_phase,P/F/R,ESENCIAL_MISION,Preflight/inflight/postflight,Según indicación
+mission_day,día,ESENCIAL_MISION,Inicio 1,Según indicación
+mission_duration_days,días,ESENCIAL_MISION,Prevista vs real,Según indicación
+gravity_g,g,ESENCIAL_MISION,micro/1/6/0.38/1,Según indicación
+eva_phase,fase,ESENCIAL_MISION,EVA preparación/salida/retorno,Según indicación
+cabin_pressure_kpa,kPa,AMBIENTAL_OPCIONAL,NASA 6.2,Según indicación
+cabin_ppco2_1h,mmHg,AMBIENTAL_OPCIONAL,Media móvil 1h,Según indicación
+cabin_ppco2_7d,mmHg,AMBIENTAL_OPCIONAL,Media 7d,Según indicación
+cabin_pio2_mmhg,mmHg,AMBIENTAL_OPCIONAL,Oxígeno inspirado no SpO2,Según indicación
+cabin_diluent_pct,%,AMBIENTAL_OPCIONAL,Fracción gas inerte,Según indicación
+noise_dose_pct,%,AMBIENTAL_OPCIONAL,Fórmula NASA/NIOSH,Según indicación
+career_effective_mSv,mSv,DOSIMETRIA,Riesgo a largo plazo,Según indicación
+lens_30d_mGy_eq,mGy-Eq,DOSIMETRIA,Lente,Según indicación
+cns_z10_career_mGy,mGy,DOSIMETRIA,Partículas Z≥10,Según indicación
+ijv_peak_velocity_cm_s,cm/s,ECOGRAFIA,Doppler yugular,Según indicación
+ijv_retrograde,0/1,ECOGRAFIA,Dirección flujo,Según indicación
+ijv_thrombus_confirmed,0/1,ECOGRAFIA,Diagnóstico ecográfico,Según indicación
+d_dimer_inflight_change_pct,%,ANALITICA,Comparar con basal en vuelo,Según indicación
+oct_trt_change_um,µm,OFTALMOLOGIA,"Spectralis, mismo protocolo",Según indicación
+frisen_grade,grado,OFTALMOLOGIA,Fondo ojo,Según indicación
+hyperopic_shift_diopter,D,OFTALMOLOGIA,Refracción,Según indicación
+hip_bmd_ratio,ratio,DXA,Pre/post misión,Según indicación
+femneck_bmd_ratio,ratio,DXA,No inferible de masa,Según indicación
+vo2max_ml_kg_min,mL/kg/min,FITNESS,Ergoespirometría,Según indicación
+strength_ratio,ratio,FITNESS,Prueba fuerza,Según indicación
+urine_l_24h,L,ORINA,Volumen total,Según indicación
+urine_acr_mg_g,mg/g,ORINA,Alb/creatinina,Según indicación
+egfr,mL/min/1.73m2,ANALITICA,Requiere creatinina/cistatina,Según indicación
+hemoglobin_ratio_baseline,ratio,HEMOGRAMA,Hb pre-in/post,Según indicación
+anc_10e9_l,10^9/L,HEMOGRAMA,Neutrófilos,Según indicación
+sleep_hours_7d,h/día,SUEÑO,Actigrafía,Según indicación
+pvt_lapse_high_flag,0/1,COGNICION,Test PVT,Según indicación
+balance_test_abnormal,0/1,SENSORIMOTOR,Equilibrio,Según indicación
+prevent_missing_predictors,0/1,MODELO,Controles de modelo,Según indicación
+nasa_vte_score,puntos,MODELO,Score por NASA 2026,Según indicación
+pregnancy_test_positive,0/1,REPRODUCTIVO,Consentimiento y pruebas,Según indicación
+high_risk_hormone_use,0/1,ANTECEDENTE,Hormona y VTE,Según indicación
+cabin_pressure_rate_psi_min,psi/min,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cabin_voc_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+water_quality_bad,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cabin_o2_violation,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cabin_thermal_zone_violation,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cabin_ventilation_alarm,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+launch_dba,dBA,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+water_available_L_day,L/día,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+career_plus_projected_mSv,mSv,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+solar_particle_alert,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+lens_1y_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+lens_career_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+bfo_30d_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+circ_1y_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cns_career_mGy,mGy,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+prebreathe_noncompliant,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+dcs_symptom_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+eva_pressure_alarm,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+eva_suit_integrity_alarm,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+eva_o2_alarm,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+eva_co2_alarm,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spo2_2min,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spo2_5min,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spo2_delta_baseline,puntos porcentuales,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+eva_spo2_2min,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hypoxia_combined_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spo2_quality_bad,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+orth_sbp_drop_3min,mmHg,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+orth_dbp_drop_3min,mmHg,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+sbp_confirmed,mmHg,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+rest_hr_10min,lpm,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+rest_hr_5min,lpm,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+awake_hr_5min,lpm,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+syncope_event,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+orthostatic_symptom_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+sbp_protocol_mean,mmHg,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+dbp_protocol_mean,mmHg,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+dbp_confirmed,mmHg,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+facial_swelling_new,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+choroidal_fold_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+globe_flattening_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+visual_field_loss_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+prior_sans_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+oct_unavailable_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spine_bmd_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+dxa_t_score,DE,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+urine_hypercalciuria_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+resistance_exercise_nonadherence,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+lower_body_strength_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+upper_body_strength_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+deadlift_bodymass_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+bench_bodymass_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+vo2max_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+vo2max_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+urine_ml_day,mL/día,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+urine_ml_kg_h_6h,mL/kg/h,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+urine_calcium_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+urine_caox_risk_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+kidney_stone_ultrasound,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+creatinine_48h_delta,mg/dL,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+creatinine_7d_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+energy_intake_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+protein_intake_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+mass_ratio_preflight,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+vitd_25oh_ng_ml,ng/mL,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+serum_calcium_corrected,mg/dL,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+sodium_mmol_l,mmol/L,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+potassium_mmol_l,mmol/L,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hematocrit_ratio_baseline,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+reticulocyte_high_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+ldh_high_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+indirect_bili_high_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+platelets_10e9_l,10^9/L,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+febrile_neutropenia_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+pcr_pathogen_positive,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+crp_mg_l,mg/L,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+wbc_10e9_l,10^9/L,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_mg_dl,mg/dL,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_tbr70_pct,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_tbr54_pct,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_tir_pct,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_tar180_pct,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_cv_pct,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hba1c_pct,%,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+circadian_misalignment_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+sleep_variability_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+workload_alarm,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+sleep_critical_task_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+psych_selfreport_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cognitive_change_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+team_conflict_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hrv_low_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cycle_phase_unavailable,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+amenorrhea_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+tsh_high_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+tsh_low_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+progesterone_phase_abnormal_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+gait_test_abnormal,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spatial_disorientation_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+motion_sickness_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+fall_event,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+coordination_deficit_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+heat_stress_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+eva_dehydration_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+bp_cuffless_unvalidated,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cgm_quality_bad,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+microgravity_weight_invalid,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spo2_artifact,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cabin_data_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+dosimetry_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+vte_score_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+mission_phase_unknown,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+sensor_uncalibrated,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+ijv_ultrasound_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+dxa_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+audiometry_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cognitive_test_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+balance_test_missing,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+rest_hr_baseline_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hrv_baseline_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+map_baseline_ratio,ratio,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hr_cv_high_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+postflight_map_change_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+hemodynamic_critical_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+ecg_arrhythmia_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+chest_pain_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+stroke_symptom_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+anaphylaxis_symptom_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+ketone_high_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+audiometric_shift_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+tinnitus_new_flag,indicador,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+spe_reference_effective_mSv,mSv,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+nuclear_technology_mSv_year,mSv/año,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+gcr_free_space_mSv_day,mSv/día,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+gcr_surface_mSv_day,mSv/día,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+circ_30d_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+circ_career_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cns_30d_mGy,mGy,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cns_1y_mGy,mGy,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+cns_z10_1y_mGy,mGy,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+skin_30d_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+skin_1y_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla
+skin_career_mGy_eq,mGy-Eq,DERIVADA_U_OPCIONAL,Revisar fuente primaria y calibración; no asumir disponible,Según regla

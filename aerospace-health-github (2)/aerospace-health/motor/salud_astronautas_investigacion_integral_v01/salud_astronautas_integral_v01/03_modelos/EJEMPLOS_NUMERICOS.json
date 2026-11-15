@@ -1,0 +1,103 @@
+{
+  "limits": {
+    "cabina_CO2_1h": {
+      "state": "INCUMPLE",
+      "measure": 3.2,
+      "criterion": "<=3.0",
+      "source": "NASA V2 6004",
+      "risk_percent": null
+    },
+    "cabina_presion_superior": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V2 6006",
+      "missing": [
+        "cabin_pressure_kPa"
+      ]
+    },
+    "cabina_presion_inferior": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V2 6006",
+      "missing": [
+        "cabin_pressure_kPa"
+      ]
+    },
+    "cabina_diluyente": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V2 6002",
+      "missing": [
+        "cabin_diluent_percent"
+      ]
+    },
+    "radiacion_carrera": {
+      "state": "CUMPLE",
+      "measure": 200,
+      "criterion": "<600.0",
+      "source": "NASA V1 4030",
+      "risk_percent": null
+    },
+    "musculo": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V1 4024",
+      "missing": [
+        "strength_ratio"
+      ]
+    },
+    "hueso_hip": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V1 4027",
+      "missing": [
+        "hip_bmd_ratio"
+      ]
+    },
+    "hueso_cuello_femur": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V1 4027",
+      "missing": [
+        "femneck_bmd_ratio"
+      ]
+    },
+    "vo2_eva_micro": {
+      "state": "NO_CALCULABLE",
+      "source": "NASA V1 4001",
+      "missing": [
+        "vo2max_ml_min_kg"
+      ]
+    }
+  },
+  "vte": {
+    "score": 7,
+    "components": {
+      "age": 1,
+      "family": 0,
+      "thrombophilia": 0,
+      "non_o": 0,
+      "hormonal": 0,
+      "jugular_stasis": 4,
+      "d_dimer": 2
+    },
+    "triage": "VALORACION_MEDICA_DE_VUELO",
+    "probability_absolute": null,
+    "validacion": "propuesta NASA 2026; sin validación predictiva externa",
+    "acciones": [
+      "Revisión por médico de vuelo",
+      "No dispensación automática de anticoagulantes"
+    ]
+  },
+  "sans": {
+    "category": "B",
+    "delta_um": 56,
+    "probability_absolute": null,
+    "source": "Gew et al. 2026 SANS consenso DOI 10.1038/s41433-026-04651-6",
+    "requires": [
+      "OCT validado",
+      "interpretación neurooftalmológica"
+    ]
+  },
+  "acoustics": 100.0,
+  "wilson_52_64": {
+    "observed_fraction": 0.8125,
+    "lower": 0.7002540844522482,
+    "upper": 0.889354651190779,
+    "is_individual_prediction": false
+  }
+}
