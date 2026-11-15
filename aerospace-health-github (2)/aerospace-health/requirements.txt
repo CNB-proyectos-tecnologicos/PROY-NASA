@@ -1,0 +1,6 @@
+# El motor de alertas necesita numpy y joblib. El ensamble (modelos/ensamble_espacio.joblib) se entrenó con estas
+# versiones exactas; con otras puede no abrirse y el servidor sigue solo con la capa de reglas.
+numpy==2.5.3
+joblib==1.6.0
+scipy==1.18.1
+scikit-learn==1.9.1

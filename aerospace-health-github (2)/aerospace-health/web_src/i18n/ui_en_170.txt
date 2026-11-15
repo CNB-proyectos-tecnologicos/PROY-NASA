@@ -1,0 +1,230 @@
+handed over to the Python engine
+Model suggestion: intermediate case with risk of priority level
+model score ≥ 55 % with no rule triggered
+Confirm the measurements: there are readings close to a threshold
+Alerts acknowledged by the user
+model (suggestion to be confirmed
+Audio enabled
+Audio could not be enabled
+Audible alarms paused
+End of alarm pause
+Sleep / chronobiology
+Psychosocial / behavior
+Demo: the previous hour of baseline signals was sent to the engine
+Linked to the Python engine
+rules · ensemble
+Python engine unlinked
+Python engine unlinked
+The built-in engine continues
+the connection to the server was lost
+Message rejected
+Level
+TELEMETRY
+No samples from channel
+Check the sensor: without data there is no evaluation
+Reading in doubt
+Check the sensor before acting
+Confirmation
+Reminder
+No follow-up
+Signals
+no address
+the WebSocket was closed
+this browser does not offer a serial port (use Chrome or Edge and open the page from the server or as a file
+2 min ago · value trend (the source does not send a waveform
+atrial fibrillation
+ventricular ectopic beats
+NOT MONITORED
+signal in doubt
+% of the career limit
+NO SIGNAL
+LOOSE ELECTRODE
+MOTION ARTIFACT
+SENSOR WITHOUT SIGNAL
+ppCO₂ ≤
+Rate · 10 min
+Rate by altitude
+ALERT ENGINE DISCONNECTED
+Values are shown without automatic monitoring
+NO ACTIVE ALERTS
+Monitoring
+Python engine
+engine built into the page
+more
+RESUME AUDIO
+PAUSE AUDIO 2 MIN
+Alert engine connected
+Audio: all
+Audio: alerts only
+Audio: urgent only
+Audio: silent
+Enable audio
+Simulation
+Connected
+Connecting
+Disconnected
+=
+Display
+Accessible
+Standard
+SOS button on the monitor
+=
+=
+=
+=
+=
+=
+=
+Clinical assistant
+Send
+Send biometric package for interpretation
+View the package
+Biometric package
+Ground physician
+Psychological wellbeing
+Signals received by the engine
+Inner weather over the last days
+Crew member
+Assistant
+demonstration with simulated signals
+real signals
+simulated (demo mode, situation
+day
+=
+not performed in this session
+=
+=
+=
+the Groq key is missing on the server (Options › Assistant
+without the server there is no access to Groq or to the local model
+risk phrase in the conversation
+Querying the model
+=
+The model returned an empty response. No automatic reply is generated
+=
+No response from the model
+No automatic reply is generated
+Biometric package sent for interpretation
+Biometric package sent to the model
+The model is interpreting the package
+=
+The model returned an empty response
+Biometric package interpretation received from
+The package was not interpreted
+Biometric package not interpreted
+Claude (published page
+no model: the Groq key is missing on the server
+no model: Groq and the local model require the server
+How are my vital signs?
+How is my glucose?
+I have a headache
+How much radiation have I received?
+I slept badly
+Listening
+I could not use the microphone
+Support requested
+Support requested by the crew member
+Stay with them and notify the flight surgeon
+I am with you
+Your request for help has been recorded and the alert is active on the monitor. Breathe with the circle: inhale as it grows, exhale as it shrinks
+This page does not send messages outside the device: also call on the mission voice channel or the person nearest to you
+I have talked to someone
+the crew member confirms having talked to someone
+I am with you. Your request for help has been recorded. Breathe with me
+Clear
+Partly cloudy
+Cloudy
+Rain
+Storm
+Inner weather
+the sky that looks like your day · 10 s
+Distress thermometer
+from 0 to 10 and where it comes from · 10 s
+WHO-5 index
+five statements about two weeks · 40 s
+Sleep
+hours and quality last night · 10 s
+Psychomotor vigilance
+five timed reactions · 30 s
+Guided breathing
+one minute with the circle
+signal to the engine
+sent to the engine as a signal
+no signal for the engine
+Save
+Not now
+Which sky looks most like your day?
+Energy
+sleep
+How much distress are you carrying now? 0 is none, 10 is the maximum
+Where does it come from? Optional
+I have felt cheerful and in good spirits
+I have felt calm and relaxed
+I have felt active and vigorous
+I woke up feeling fresh and rested
+My daily life has been filled with things that interest me
+Hours
+h of sleep
+Tap the box as soon as it lights up. Five attempts
+Tap to start
+Now
+Too early. Tap to repeat
+ms · tap for the next one
+Mean
+lapses of 355 ms or more
+lapses ≥ 355 ms
+=
+Rate your tension now, from 0 to 10
+Inhale for 4 s as it grows, exhale for 6 s as it shrinks. Three cycles
+And your tension now?
+energy
+tension
+thermometer ≥ 4, rain or storm sky, or WHO-5 ≤ 50
+WHO-5 wellbeing index
+Mean sleep over the week
+< 7 h follow-up
+Attention lapses (psychomotor vigilance
+2 or more lapses ≥ 355 ms in 5 attempts
+yes
+distress ≥ 4 attributed to living together
+Work overload
+distress ≥ 7 attributed to workload
+Signal
+Value
+Rule
+Criterion
+Status
+A wellbeing alert is never shown ahead of a physical alert. The PSI rules are evaluated in this monitor because their catalog equivalents (SP-0148 and SP-0150) are switched off pending validation
+No records yet
+Distress
+Mean sleep
+nights recorded in 7 days
+Reaction
+Signals in 7 days
+review with the flight surgeon
+Alert
+Summary
+Mandatory data
+Measurements
+Laboratory
+History
+Medical record
+Complete blood count
+Hemoglobin
+Hematocrit
+Red blood cells
+White blood cells
+Neutrophils
+Lymphocytes
+Platelets
+Nutrients and blood chemistry
+25-OH vitamin D
+Ferritin
+Serum iron
+Vitamin B12
+Serum folate
+Total calcium
+Albumin
+Magnesium
+Zinc
+Sodium

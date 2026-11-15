@@ -1,0 +1,28 @@
+Cabin / CO2
+Cabin / habitat quality
+Radiation / dosimetry
+EVA / decompression
+Crew oxygenation
+Cardiovascular adaptation / orthostatism
+Blood pressure and cardiovascular prevention
+Jugular thrombosis / VTE
+Neuro-ocular SANS
+Bone / densitometry
+Muscle / strength
+Aerobic capacity
+Kidney / stones / hydration
+Nutrition / metabolism
+Hematology / hemolysis
+Immunity / infection
+Glucose / CGM
+Sleep / chronobiology
+Psychosocial / behavior
+Reproduction / hormones
+Sensorimotor / return
+Temperature / thermal physiology
+Quality controls and abstention
+Rare / non-identifiable risks
+Trend monitoring
+Common clinical risks with spaceflight impact
+Acoustic exposure / hearing
+Radiation / complementary limits

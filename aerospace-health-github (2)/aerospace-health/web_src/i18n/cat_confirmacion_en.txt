@@ -1,0 +1,203 @@
+Confirmation by redundant environmental sensor
+Calibrated environmental sensor
+Certified pressure sensor
+Gas analyzer and ECLSS team
+Instruments, operational phase, delta >1 psi
+O2 analyzer and PIO2 calculation
+Confirm the cabin CO2 series
+VOC analyzer and mission limit
+Microbiological/chemical analysis
+Atmosphere composition and phase
+Measure T, RH and the polygon region
+Ventilation instrument
+Dosimeter and NASA formula V2 6073
+Ear dosimeter
+Availability inventory
+NASA Q dosimetry and cumulative exposure
+Mission dosimetric model
+Space detector and mission alarm
+Organ dosimeter with RBE weighting
+Organ dosimeter
+Organ dosimetry
+BFO-specific dosimetry
+Tissue dosimetry; NOT mSv
+Specialized detector
+Record of gases, time and procedure
+Clinical examination and pressure assessment
+Suit telemetry
+Life-support system diagnosis
+Suit ppO2 sensor
+Repeat validated SpO2, explore PaO2
+Validated oximeter and clinical correlation
+Repeat with a validated sensor
+Compare with suit ppO2 and pressure data
+Independent measurement of cabin PIO2 + SpO2
+Perfusion and motion check
+Supine 5 min and standing 3 min
+Postural test per protocol
+Validated blood pressure monitor
+ECG or validated sensor, exercise context
+ECG and artifact check
+ECG, compare with trained athlete
+Clinical observation, ECG and tests
+Interview + orthostatic test
+2 visits and valid measurements
+BP validated on ≥2 occasions
+Confirmed BP
+Confirmed measurement
+Repeat and assess symptoms/organs
+Repeat with a clinical device
+Required predictors
+Protocolized jugular ultrasound
+Bilateral Doppler ultrasound
+Two comparable assays
+Score computed with sufficient fields
+Recompute and confirm with ultrasound
+Ultrasound, medical team and bleeding risks
+Specialist / interpreted ultrasound
+Examination and ultrasound
+OCT with the same instrument and protocol
+OCT and examination; consider a postflight plan
+Fundus examination by a specialist
+Calibrated pre/post refraction
+OCT/fundoscopy
+MRI or other validated imaging
+Formal perimetry
+History and previous examinations
+Verify equipment/schedule
+Comparable DXA at two time points
+DXA with the same protocol
+DXA
+DXA and interpretation by age/sex
+DXA and applicable age
+24-h urinary calcium
+Exercise log
+Protocolized dynamometry
+Validated functional test
+Standardized test
+Approved estimated/measured 1RM
+Certified technique
+Protocolized test
+Standardized measurement
+Ergospirometry or authorized model
+Test suited to the type of EVA
+Comparable measurements
+Longitudinal test
+Examination schedule
+Urine measurement and clinical consultation
+Balance and serial creatinine
+24-h balance
+24-h urine chemistry
+Certified urine chemistry
+Ultrasound or imaging
+Repeat laboratory tests, balance
+Verifiable baseline creatinine
+Laboratory tests >3 months for CKD
+Repeated ACR
+Validated ACR
+Food diary + individual requirement
+Individual requirement and record
+Calibrated mass measurement; review water
+Balance and body composition
+Laboratory and specialist guidance
+Albumin-corrected or ionized calcium
+Albumin and ionized calcium
+Confirmed laboratory test
+Repeat and assess symptoms
+Valid laboratory test
+Rule out sample hemolysis
+Repeat laboratory test
+Serial blood count and reticulocytes
+Blood count and fluids
+Reticulocytes, LDH, bilirubin, haptoglobin
+Blood count and smear
+Liver panel, haptoglobin
+Confirmatory blood count
+Differential blood count
+Temperature and ANC
+Clinical thermometer and context
+Reliable core thermometer
+Confirm temperature and other signs
+PCR and clinical picture
+Laboratory tests, clinical picture and other biomarkers
+Blood count
+Repeat blood count
+CGM sensor plus capillary glucose if discordant
+Confirm if possible without delaying care
+CGM quality, context
+Clinical glucose, ketones when indicated
+CGM ≥14 days and 70% active
+CGM with valid duration
+CGM 14 days / 70% coverage
+Validated CGM
+CGM duration and quality
+Laboratory HbA1c and repeat per context
+Actigraphy or calibrated sleep record
+Diary and actigraphy
+Actigraphy + light + schedules
+Continuous record
+Psychomotor Vigilance Test
+Certified fatigue record
+Safety rule with task and sleep
+Validated individual interview
+Standardized cognitive test
+Voluntary and contextual record
+Control of HRV conditions and breathing
+Confirm cycle/suppression context
+Confirmatory medical test
+Voluntary medication history
+Cycle/medication/pregnancy history
+Hormone panel
+Hormone assay with the actual phase
+Objective balance test
+Gait test and clinical observation
+Sensorimotor examination
+Symptoms and signs
+Fall record
+Manual function test
+Core thermometer and context
+Reliable measurement
+Thermal index measured per mission
+Balance/mass and EVA device
+Calibration validation vs cuff
+Series integrity and active time
+Calibrated inertial mass device
+Motion, perfusion, pigmentation and sensor
+ECLSS telemetry
+OCT and ophthalmological examination
+Validated dosimetry
+History / ultrasound / D-dimer
+Mission control
+Metrological control
+Request ultrasound when clinically indicated
+Pre/post DXA
+Audiometry
+Specific tests
+Validated sensorimotor test
+Representative baseline in a comparable phase
+Same HRV algorithm and circadian time
+Validated BP device
+Oximeter quality
+Inertial mass measurement
+7-day window and activity control
+Position measurements
+Evaluated clinical multivariate rule
+ECG with 1+ leads
+History, ECG, troponin if available
+FAST/neuro examination; imaging if possible
+Symptom assessment and life support
+Ketones, pH/electrolytes
+Standard pre/post audiometry
+Interview and audiometry
+dBA dosimetry
+NASA SPE simulation V1 4031
+Dosimetry attributable to the reactor V1 4032
+NASA GCR model 4033
+GCR model V1 4033
+Dosimetry in arteries and myocardium
+Tissue dosimetry
+Hippocampus dosimetry
+Particle-specific dosimetry
+Dosimeter and skin RBE
+Dosimeter and RBE
+Skin dosimetry

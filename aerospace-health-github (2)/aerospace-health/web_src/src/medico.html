@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aerospace Health · Consola médica de tierra</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>%%CSS%%</style>
+</head>
+<body class="cuerpo-med">
+<header class="barra">
+  <div class="marca">Aerospace Health <span>Consola médica de tierra</span></div>
+  <div class="estado">
+    <span class="chip" id="m-enlace"><i></i><b>Servidor</b><em>Conectando</em></span>
+    <label class="chip">Firma <input type="text" id="m-autor" aria-label="Nombre del médico" style="width:170px" data-notr></label>
+    <div class="seg" id="m-idioma" role="group" aria-label="Idioma"><button type="button" data-id="es">Español</button><button type="button" data-id="en">English</button></div>
+    <span class="reloj" id="m-reloj">--:--:--</span>
+  </div>
+</header>
+<main class="med">
+  <aside class="med-dir"><h2>Directorio de tripulación</h2><div id="m-dir"></div><p class="nota" id="m-dir-nota"></p></aside>
+  <section class="med-centro"><div id="m-cab"></div><nav class="sub-tabs" id="m-tabs"></nav><div class="rej" id="m-cuerpo"></div></section>
+  <aside class="med-com"><h2>Intercomunicación <small id="m-com-quien"></small></h2><div class="chat" id="m-hilo" aria-live="polite" data-notr></div>
+    <form class="entrada" id="m-form"><input type="text" id="m-texto" placeholder="Mensaje para el tripulante" autocomplete="off" aria-label="Mensaje para el tripulante"><button type="submit" class="btn pri">Enviar</button></form>
+    <p class="nota">Los mensajes llegan al monitor del tripulante, en Asistente › Médico en tierra.</p></aside>
+</main>
+<script>%%JS%%</script>
+</body>
+</html>

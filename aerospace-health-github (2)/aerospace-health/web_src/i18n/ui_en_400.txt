@@ -1,0 +1,240 @@
+Potassium
+Creatinine
+Hormone panel
+Free T4
+Morning cortisol
+Estradiol
+Progesterone
+Total testosterone
+Fasting insulin
+Waist cm
+Hip cm
+Neck cm
+Arm cm
+Thigh cm
+Calf cm
+Body fat %
+Mass kg
+Temperature °C
+Capillary glucose mg/dL
+Menstrual
+Follicular
+Ovulatory
+Luteal
+date of birth (age
+ethnic origin
+cycle phase (date of last menstrual period
+body measurements (waist and hip
+continuous cardiac measurement
+continuous arterial pressure
+glucose measurement
+oxygen measurement
+no signal
+No records
+years
+demonstration profile with fictitious data
+session
+systolic
+% of 600 mSv
+Alerts in the session
+Export all · JSON
+Session vital signs · CSV
+Alerts · CSV
+Import profile · JSON
+⚠ Missing
+✓ Height, weight, age, temperature, ethnic origin, body measurements and the four continuous measurements are present
+Ethnic origin
+Cycle phase
+Waist / hip
+Mass relative to preflight
+latest studies
+⚠ Outside the reference range
+✓ No values outside the reference range in the latest studies
+Heart rate and SpO₂
+Arterial pressure
+systolic and diastolic · mmHg
+Interstitial glucose
+dose rate · µSv/h
+start of session
+Name
+Identifier
+Date of birth
+Sex
+Female
+Male
+Blood group
+Ethnic origin (self-reported
+Height cm
+Current weight kg
+Preflight weight kg
+Baseline temperature °C
+Previous career dose mSv
+Mission day
+Ethnic origin and cycle phase are sent to the engine only as context and audit: they do not modify any alert and do not enter the ensemble
+Body measurements
+Waist-to-hip ratio
+Waist-to-height ratio
+In microgravity, weight is measured with a body mass measurement device, not a scale
+Menstrual cycle
+Menstrual cycles
+Present
+Not applicable (suppression, menopause or other cause
+First day of last menstrual period
+Usual cycle length (days
+Combined hormonal contraception
+Yes
+Phase estimated by calendar: ovulation about 14 days before the next period. It is used to interpret estradiol, progesterone, LH and FSH against the range for their phase. Combined contraception counts toward the thrombotic risk score
+Continuous cardiac (ECG
+Continuous arterial pressure · systolic
+Continuous arterial pressure · diastolic
+Oxygen (SpO₂
+Respiration
+Continuous measurements
+Measurement
+Minimum
+Maximum
+Unit
+✓ receiving
+Export the session · CSV
+Manual entry
+Note
+Save entry
+Date
+Delete
+by phase
+Save study
+Load CSV
+CSV columns: fecha
+Reference
+Estradiol, progesterone, LH and FSH are compared with the range for the cycle phase on the study date
+A moderate drop in hemoglobin is usual in flight
+Medical history
+Condition
+Since
+Medication
+Drug
+Regimen
+Indication
+Allergies
+Substance
+Severity
+Add
+The medical history is sent to the engine, which adds the surveillance-plan modifications its catalog provides for each item
+Medical record
+fictitious demonstration data
+Export record · Markdown
+Export data · JSON
+1 · Identification and mandatory data
+Identifier and role
+Age and sex
+Height and weight
+kg · BMI
+Baseline temperature
+2 · Mission and radiation exposure
+Mission
+Previous career dose
+Mission dose
+% of the 600 mSv limit
+Current rate
+3 · History: conditions, medication and allergies
+Allergy
+4 · Complete blood count
+5 · Nutrients and blood chemistry
+6 · Hormone panel
+7 · Continuous measurements: session summary
+Indicator
+8 · Manual entries
+9 · Session alerts
+Start
+Source
+10 · Psychological wellbeing and sleep
+Record
+Result
+Signal to the engine
+11 · Consultations with the ground physician
+Reason
+12 · Notes
+Save notes
+Research prototype. It does not replace the official medical record or the flight surgeon
+=
+Demonstration profile with fictitious data
+Generated
+kg · baseline temperature
+Measurements
+Cycle
+None
+Profile imported
+I could not read
+I could not read the file
+Understood
+Enter at least one measurement
+Manual entry saved
+Enter at least one value for the study
+I found no rows with 'fecha' and at least one value
+studies imported from CSV
+The first field is missing
+added
+Record notes saved
+Profile data updated
+No alert
+Follow-up
+Consultation
+Priority
+Immediate
+Preflight
+In flight
+Postflight
+days
+No level
+=
+The value meets the criterion, but the rule depends on a context item that was not provided. Complete it so that it can be evaluated
+What is not measured is not considered normal. Without these data the engine cannot give a result
+Mission phase not provided: phase-dependent rules are not evaluated
+catalog rules evaluated in the page
+I could not query the Python engine
+the catalog rules are applied in the page
+Full evaluation: level
+rules in the page
+Mission phase
+Mission context
+decides which rules apply
+There is no evaluation yet. Press «Evaluate now
+Evaluation level
+Findings
+To verify
+signals in doubt
+Rules evaluated
+Evaluated by the Python engine
+Evaluated in the page with the catalog rules, at
+Without the server there is no full ensemble, no readings close to a threshold and no plan by medical history
+What is not measured is not considered normal
+Finding
+Criterion and value
+Proposed action
+✓ No rule is triggered with the available data
+Signals to verify
+the value crosses a threshold but the sensor quality is in doubt
+Level if confirmed
+What to do
+Context to complete
+Readings close to a threshold
+Measure
+Threshold
+If crossed
+Distance
+sensor SD
+Distance to the threshold in standard deviations of the sensor error: below 1, repeating the measurement could cross it
+Distilled model
+Model ensemble
+approximation in the page, with 5 vital signs
+Most likely level
+Conservative level
+Score for consultation or higher
+Score for priority or higher
+Score for immediate
+Agreement between the models
+Confidence
+Support for the level of the rules
+Data with the most weight
+Item
+Change in the score

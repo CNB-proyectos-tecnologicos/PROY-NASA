@@ -1,0 +1,167 @@
+{
+ "origen": "motor_alertas_catalogo_v03.json (paquete terrestre v04)",
+ "antecedentes": [
+  {
+   "enfermedad": "Diabetes mellitus tipo 1",
+   "efecto": "Activar ruta de seguridad CGM; priorizar hipoglucemia y cetonas"
+  },
+  {
+   "enfermedad": "Diabetes mellitus tipo 2",
+   "efecto": "Activar vigilancia de glucosa, eGFR/ACR, lípidos y cardiovascular"
+  },
+  {
+   "enfermedad": "Hipertensión arterial",
+   "efecto": "Revisar control con dispositivo validado, no tamizaje inicial"
+  },
+  {
+   "enfermedad": "Enfermedad coronaria/infarto",
+   "efecto": "Prevención cardiovascular secundaria"
+  },
+  {
+   "enfermedad": "Insuficiencia cardíaca",
+   "efecto": "Priorizar aumentos rápidos de peso, FC y cambios respiratorios"
+  },
+  {
+   "enfermedad": "Fibrilación auricular",
+   "efecto": "Evaluar carga y riesgo tromboembólico con historial completo"
+  },
+  {
+   "enfermedad": "Taquicardia supraventricular previa",
+   "efecto": "Incrementar prioridad de evaluación ECG ante episodios"
+  },
+  {
+   "enfermedad": "Ictus o AIT",
+   "efecto": "Prevención vascular secundaria; priorizar FA/PA"
+  },
+  {
+   "enfermedad": "Enfermedad arterial periférica",
+   "efecto": "Riesgo aterosclerótico elevado; vigilancia vascular"
+  },
+  {
+   "enfermedad": "Enfermedad renal crónica",
+   "efecto": "Vigilar potasio, creatinina, PA y albuminuria"
+  },
+  {
+   "enfermedad": "Lesión renal aguda previa",
+   "efecto": "Mayor atención a aumentos de creatinina"
+  },
+  {
+   "enfermedad": "Apnea obstructiva del sueño",
+   "efecto": "Interpretar desaturaciones con ruta de seguimiento"
+  },
+  {
+   "enfermedad": "EPOC",
+   "efecto": "Usar saturación basal personalizada y plan de oxígeno"
+  },
+  {
+   "enfermedad": "Asma grave",
+   "efecto": "Priorizar cambios de SpO2 en contexto respiratorio"
+  },
+  {
+   "enfermedad": "Cirrosis/MASLD conocida",
+   "efecto": "Vigilar función hepática, renal, plaquetas y fibrosis"
+  },
+  {
+   "enfermedad": "Hipotiroidismo",
+   "efecto": "Interpretar TSH/FT4, peso y FC con contexto"
+  },
+  {
+   "enfermedad": "Hipertiroidismo",
+   "efecto": "Mayor sospecha clínica en taquicardia/FA"
+  },
+  {
+   "enfermedad": "SOP",
+   "efecto": "Mayor vigilancia metabólica y menstrual"
+  },
+  {
+   "enfermedad": "Diabetes gestacional previa",
+   "efecto": "Cribado posterior periódico de DM"
+  },
+  {
+   "enfermedad": "Enfermedad oncológica con tratamiento inmunosupresor",
+   "efecto": "Fiebre+ANC bajo puede ser emergencia"
+  }
+ ],
+ "secuelas": [
+  {
+   "secuela": "Hemiparesia postictus",
+   "efecto": "Evitar modelos de actividad física sin ajuste"
+  },
+  {
+   "secuela": "Afasia residual",
+   "efecto": "No confiar exclusivamente en reporte de síntomas"
+  },
+  {
+   "secuela": "Amputación de extremidad",
+   "efecto": "Interpretar IMC y antropometría mediante ajuste"
+  },
+  {
+   "secuela": "Marcapasos implantado",
+   "efecto": "FC basal depende de programación"
+  },
+  {
+   "secuela": "Desfibrilador implantable",
+   "efecto": "Interpretar arritmias con revisión dispositivo"
+  },
+  {
+   "secuela": "Válvula cardíaca protésica",
+   "efecto": "Priorizar evaluación clínica cardiovascular"
+  },
+  {
+   "secuela": "Trasplante renal",
+   "efecto": "Vigilancia específica de función renal"
+  },
+  {
+   "secuela": "Riñón único",
+   "efecto": "Enfatizar tendencia eGFR/ACR"
+  },
+  {
+   "secuela": "Diálisis crónica",
+   "efecto": "Peso interdialítico/electrolitos requieren reglas individuales"
+  },
+  {
+   "secuela": "Neuropatía autonómica",
+   "efecto": "Ajustar interpretación FC/PA ortostáticas"
+  },
+  {
+   "secuela": "Neuropatía periférica diabética",
+   "efecto": "No inferir ausencia de lesión por ausencia de dolor"
+  },
+  {
+   "secuela": "Retinopatía diabética avanzada",
+   "efecto": "Riesgo microvascular establecido"
+  },
+  {
+   "secuela": "Secuela pulmonar post-tuberculosis",
+   "efecto": "Individualizar SpO2 basal"
+  },
+  {
+   "secuela": "Fibrosis pulmonar",
+   "efecto": "Desaturaciones tienen relevancia contextual"
+  },
+  {
+   "secuela": "Traqueostomía permanente",
+   "efecto": "Protocolo respiratorio especializado"
+  },
+  {
+   "secuela": "Esplenectomía",
+   "efecto": "Bajo umbral para evaluar fiebre clínicamente"
+  },
+  {
+   "secuela": "Cirrosis con hipertensión portal",
+   "efecto": "Plaquetas, renal y sangrado cobran prioridad"
+  },
+  {
+   "secuela": "Menopausia quirúrgica",
+   "efecto": "No usar fase ovulatoria como variable activa"
+  },
+  {
+   "secuela": "Ooforectomía",
+   "efecto": "Interpretación hormonal y ciclos individualizada"
+  },
+  {
+   "secuela": "Antecedente obstétrico de alto riesgo con secuela",
+   "efecto": "Ruta cardiovascular/obstétrica individualizada"
+  }
+ ]
+}

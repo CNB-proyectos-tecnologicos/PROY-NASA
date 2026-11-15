@@ -1,0 +1,41 @@
+﻿tipo,antecedente,fases,modificacion_plan,fuente
+ENFERMEDAD,Hipertensión,P/A,"Validar PA, tratamientos y contraindicaciones; no cambiar umbral NASA",N18
+ENFERMEDAD,Diabetes,P/A,Priorizar hipoglucemia y CGM; acceso a insulina; confirmar por plasma,N17
+ENFERMEDAD,Enfermedad renal crónica,P/A,"eGFR y ACR, litiasis; riesgos por hidratación y fármacos",N19
+ENFERMEDAD,Litiasis renal previa,P/F,"Evaluar 24h orina, ecografía y balance; recurrencia potencial",N08
+ENFERMEDAD,Osteoporosis / baja DMO,P/R,DXA y fractura; contramedidas microgravedad,N01
+ENFERMEDAD,Enfermedad cardiovascular,P/A,ECG/ECO y fitness; evaluación Flight Surgeon,N23
+ENFERMEDAD,Arritmia documentada,P/A,"ECG, frecuencia y antiarrítmicos con protocolo",N21
+ENFERMEDAD,TEV / trombosis previa,P/A,"Riesgo VTE; investigar familia, ecografía, anticoagulantes",N03
+ENFERMEDAD,Trombofilia hereditaria,P/A,Score VTE NASA 2026; confirmación diagnóstico,N03
+ENFERMEDAD,Migraña recurrente,F,"Diferencial de cefalea por CO2, SANS, presión",N07
+ENFERMEDAD,Glaucoma,P/F,Oftalmo reforzada SANS; sensibilidad a cambios visuales,N04
+ENFERMEDAD,Apnea sueño,P/F,Actigrafía no diagnostica; polisomnografía si indicada,N24
+ENFERMEDAD,Asma,P/F,"Revisar oxigenación, exposición partículas y plan",N25
+ENFERMEDAD,Anemia crónica,P/R,"Serie Hb/reticulocitos, hemólisis y fierro",N14
+ENFERMEDAD,Trastorno tiroideo,P/F,"TSH/T4L según clínica, medicamentos y fase",N20
+ENFERMEDAD,Trastorno autoinmune,P/F,Inflamación y terapia; evaluación inmunológica,N10
+ENFERMEDAD,Infecciones recurrentes,P/F,"Exposiciones, cultivo y estado inmune",N10
+ENFERMEDAD,Trastornos equilibrio vestibular,P/R,Mayor vigilancia sensorimotora,N11
+ENFERMEDAD,Depresión/ansiedad conocida,P/F,"Apoyo confidencial, no clasificación desde HRV",N24
+ENFERMEDAD,Trastorno reproductivo/hormonal,P/F,Ciclo contextual y riesgos trombóticos si hormonas,N20
+SECUELA,Trombosis yugular residual,F,Ultrasonido detallado y seguimiento por Flight Surgeon,N03
+SECUELA,Disminución permanente agudeza visual,P/F,OCT/campos visuales y comparabilidad SANS,N04
+SECUELA,Lesión irreversible retina,P/F,Modificación del plan neuro-oftálmico,N04
+SECUELA,Catarata previa,P/R,Considerar dosimetría lente y oftalmo,N15
+SECUELA,Fractura fragilidad consolidada,P/F,DXA y prevención de nuevas fracturas,N01
+SECUELA,Pérdida masa ósea postmisión previa,P/F,Comparar DXA longitudinal y ejercicio,N16
+SECUELA,Debilidad muscular residual,P/R,Fuerza funcional y desempeño misión,N01
+SECUELA,Limitación cardiorrespiratoria persistente,P/R,VO2max y umbrales EVA,N01
+SECUELA,Déficit vestibular permanente,P/R,Pruebas equilibrio y plan de reacondicionamiento,N11
+SECUELA,Hipoacusia permanente,P/F,Audiometría pre/post y comunicaciones,N26
+SECUELA,Insuficiencia renal crónica residual,P/F,eGFR/ACR y nefrotoxicidad,N19
+SECUELA,Riñón único,P/F,Balance riñón y riesgos litiasis,N08
+SECUELA,Prótesis articular,P/F,"Fuerza, estabilidad y tareas EVA",N01
+SECUELA,Secuela neurológica focal,P/F,Prueba neurológica y coordinación,N11
+SECUELA,Secuela tromboembólica pulmonar,P/F,Función pulmonar y oxigenación validada,N03
+SECUELA,Disautonomía ortostática crónica,P/R,"Protocolo ortostático, caídas",N13
+SECUELA,Daño hepático crónico,P/F,"Laboratorio, medicaciones y nutrición",N22
+SECUELA,Cicatrices extensas quemaduras,P/F,Control térmico y ajuste traje,N02
+SECUELA,Inmunodeficiencia persistente,P/F,Prevención infecciones y respuesta inmune,N10
+SECUELA,Esterilidad o falla gonadal documentada,P/F,Evitar inferencias ovulación; hormonas según tratamiento,N20

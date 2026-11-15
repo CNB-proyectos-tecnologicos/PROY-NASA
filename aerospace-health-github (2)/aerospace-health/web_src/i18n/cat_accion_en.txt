@@ -1,0 +1,208 @@
+Check scrubber and ventilation, and alert environmental control
+Review trend and safety margin
+Activate the cabin atmosphere protocol
+Apply the ambient pressure protocol
+Check composition and associated risks
+Assess depressurization and barotrauma
+Compare with the table by duration/atmosphere and activate ECLSS
+Review headaches and ventilation, without estimating individual risk
+Isolate the source and activate the chemical protocol
+Suspend the supply involved and activate the protocol
+ECLSS response
+Correct thermal control
+Check stagnant CO2 zones and systems
+Review hearing protection and noise source
+Reduce exposure per the acoustic protocol
+Correct provisioning and planning
+Escalate to the radiation protection officer
+Replan the expected exposure
+Radiation shelter protocol
+Assess organ dose with a specialist
+Dosimetric reassessment
+Replan career and ophthalmological examination
+Activate the radiobiological protocol
+Cardiocirculatory radiation assessment
+Specialized radiological review
+Review the contribution of Z≥10 particles
+Suspend/protocolize EVA per the controller
+Activate flight surgeon care and the EVA protocol
+Abort the operation per procedure
+EVA emergency procedure
+Activate the EVA checklist and monitor vital signs
+Suit CO2 system response
+Check oximeter, oxygenation and cabin conditions
+Clinical assessment and cabin environment
+Instrumental confirmation and cabin review
+Activate life-support and flight surgeon assessment
+Assess hypoxia risk by system and physiology
+Do not report hypoxemia without data; change the sensor
+Assess orthostatic intolerance and fall risk
+Assess perfusion and medical causes
+Assess sustained tachycardia and its causes
+Immediate clinical/ECG assessment
+Confirm and assess perfusion
+Ensure protection, immediate medical assessment
+Rehabilitation / flight medicine intervention
+Review cardiovascular factors and averages
+Assess hypertension and cardiovascular risk
+Review medical selection/recertification
+Assess hypertension
+Cardiovascular risk control
+Check for organ damage, urgent assessment
+Assess acute organ damage
+Abstain and request lipids/history
+VTE risk review by the flight surgeon
+Assess VTE stasis with space surgery/hematology
+Assess the VTE algorithm and causes of the change
+Refer for assessment and intensified monitoring
+Immediate assessment by the flight surgeon
+Specialized clinical VTE assessment
+Apply the VTE protocol and operational protection
+Prioritize vascular assessment if symptomatic
+SANS neuro-ophthalmological assessment
+Reinforced ophthalmological assessment
+SANS assessment and follow-up
+Consider refractive review and OCT
+Assess retinal deformation
+SANS assessment and MRI
+Urgent eye assessment
+Plan individual eye surveillance
+Report inability to monitor SANS
+Review bone countermeasures
+Assess relevant bone loss
+Assess bone metabolism
+Bone health assessment
+Assess bone loss and stone risk
+Review physical countermeasures
+Review strength training
+Assess leg countermeasures
+Adjust resistance
+Review functional readiness
+Review EVA training
+Review surface EVA capability
+Review upper-body strength
+Review EVA function
+Assess physical capacity for EVA
+Assess operational demand of surface EVA
+Review aerobic training
+Aerobic reconditioning plan
+Report missing EVA-critical metric
+Assess oliguria and renal function
+Review hydration and acute kidney injury
+Assess hydration and urine chemistry
+Urine chemistry and bone loss assessment
+Review stone formation risk
+Spaceflight kidney stone assessment
+Assess acute kidney injury
+Verify persistence and albuminuria
+Renal follow-up
+Priority renal assessment
+Review ration, balance and workload
+Nutritionist review
+Assess energy and fluid balance
+Mass loss assessment
+Interpret bone metabolism and nutrition
+Assess hypercalcemia/kidney
+Assess calcium/PTH/vitamin D
+Assess dysnatremia and fluid balance
+Urgent clinical assessment
+Assess free water and losses
+Review ECG and causes
+Assess electrolytes and ECG
+Investigate anemia and fluid effect
+Assess anemia vs hemodilution
+Explore hemolysis/hematopoietic recovery
+Complete the hemolysis work-up
+Assess hemolysis/liver
+Assess bleeding/cytopenia
+Infection protection and assessment
+Infectious emergency and clinical protocol
+Assess infection/heat exposure
+Hypothermia assessment
+Priority medical assessment
+Distinguish asymptomatic shedding from disease
+Inflammation/infection assessment
+Clinical-laboratory correlation
+Assess bone marrow/infection
+Review infection risk
+Confirm and follow the low-glucose protocol
+Immediate glucose review and assistance
+Review glycemic exposure and meals/stress
+Assess metabolic status and causes
+Review glycemic management in a person with diabetes
+Review repeated severe hypoglycemia
+Review diabetes control
+Assess hyperglycemia in diabetes
+Assess high variability and safety
+Request confirmation of diabetes
+Review fatigue and schedule
+Review sleep opportunity
+Light and shift assessment
+Review diary and schedule
+Review performance and fatigue
+Replan shift/rest
+Fatigue assessment before the operation
+Offer a confidential professional assessment
+Assess attention, sleep, stress and other factors
+Mediation and program support
+Analyze sleep/stress/activity without diagnosing
+Mark as not applicable without inferring disease
+Confidential obstetric assessment and exposure plan
+Include in the NASA VTE score
+Endocrine-reproductive assessment
+Request free T4 and assessment
+Assess FT4/T3, medication
+Verify cycle day/ovulation and hormone treatment
+Vestibular rehabilitation program
+Fall prevention and rehabilitation
+Suspend sensitive tasks until assessed
+Assessment by the flight surgeon
+Examine for injury and supervise
+Assess tasks and training
+Immediate assessment for possible hyperthermia
+Check pattern and sensors
+Review heat load and humidity
+Review cooling and hydration
+Do not issue a hypertension classification
+Do not compute clinical CGM metrics
+Do not compute mass change
+Do not use SpO2 for diagnosis
+Do not estimate hypoxia/CO2 exposure from vital signs
+Do not rule out SANS
+Do not compute ionizing dose
+Do not present the points as complete
+Do not activate phase-specific rules
+Disable the sensor-dependent criterion
+Do not rule out venous thrombosis
+Do not quantify bone loss
+Do not rule out hearing loss
+Do not diagnose cognitive changes
+Do not score vestibular deterioration
+Review physiological stress, exercise and sleep
+Verify autonomic measures and sleep
+Verify BP, hydration and phase
+Validate sensor and environment
+Review fluids/intake
+Assess artifacts and variability
+Reassess orthostatic compensation
+Apply ABC and perfusion assessment
+ECG interpretation and telemedicine
+Cardiopulmonary assessment
+Activate the neurological protocol
+Activate emergency protocols
+Acidosis and metabolism assessment
+Audiological assessment
+Assess noise exposure and hearing
+Mitigate exposure per mission
+Reassess shelter and design shielding
+Reconfigure nuclear shielding
+Review habitat GCR shielding
+Review surface habitat shielding
+Review circulatory tissue protection
+Reassess cumulative occupational exposure
+CNS radiological protocol
+Review CNS dose
+Reassess shielding against high-Z
+Review skin dosimetry
+Review annual skin dosimetry
+Reassess career exposure

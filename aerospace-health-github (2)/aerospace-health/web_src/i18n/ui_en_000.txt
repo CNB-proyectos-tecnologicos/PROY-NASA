@@ -1,0 +1,170 @@
+=
+Commander
+Mestiza (self-reported
+Expedition Orbita-1
+Arterial hypertension
+On treatment
+Controlled on monotherapy
+Kidney stones
+History
+One episode, no recurrence
+Losartan
+Sulfonamides
+Rash
+Preflight
+Mission day 60
+Fasting capillary glucose
+File saved
+File generated
+Could not be generated
+=
+Physiological
+Rest, no alteration
+Cycle ergometer exercise
+Cardiovascular
+Sustained sinus tachycardia at rest
+Marked sinus bradycardia
+New-onset atrial fibrillation
+Frequent ventricular ectopy
+Sustained ventricular tachycardia
+Hypertensive crisis
+Hypovolemia: hypotension with tachycardia
+Respiratory
+Progressive hypoxemia
+Pulmonary embolism: signal pattern
+Apnea pauses
+Tachypnea at rest
+Metabolic
+Progressive hypoglycemia
+Sustained hyperglycemia
+Infectious and thermal
+Febrile syndrome
+Evolving sepsis
+Heat overload during exertion
+Body cooling
+Cabin environment
+CO₂ build-up (scrubber failure
+Slow cabin depressurization
+Radiation
+South Atlantic Anomaly pass
+Solar particle event
+Sensors
+Motion artifact
+SpO₂ sensor disconnected
+Loose ECG electrode
+Low Earth orbit (by altitude
+Commercial flight · 11 km
+Deep space / cislunar transit
+Lunar surface
+Mars surface
+Simulated situation
+CAUTION
+NO DATA
+Systolic BP
+Diastolic BP
+Temperature
+Glucose
+Cabin ppCO₂
+Cabin pressure
+Dose rate
+Career dose
+Apnea
+Sustained critical SpO₂
+Check oximeter, oxygenation and cabin conditions
+Moderately low SpO₂
+Clinical assessment and cabin environment
+Elevated heart rate at rest
+Assess sustained tachycardia and its causes
+Extremely elevated heart rate
+Immediate clinical assessment and ECG
+Marked bradycardia while awake
+Confirm and assess perfusion
+Very low systolic pressure
+Assess perfusion and medical causes
+Severe systolic hypertension
+Check for organ damage, urgent assessment
+Severe diastolic hypertension
+Assess acute organ damage
+Confirmed fever
+Assess infection or heat exposure
+High fever
+Priority medical assessment
+Very high body temperature
+Immediate assessment for possible hyperthermia
+Hypothermia
+Hypothermia assessment
+Falling body temperature
+Check pattern and sensors
+Mild interstitial hypoglycemia
+Confirm and follow the low-glucose protocol
+Severe interstitial hypoglycemia
+Immediate glucose review and assistance
+Interstitial hyperglycemia
+Review glycemic exposure, meals and stress
+Marked interstitial hyperglycemia
+Assess metabolic status and causes
+Hourly CO₂ above the nominal limit
+Total cabin pressure below the defined zone
+Activate the cabin atmosphere protocol
+Career dose at the NASA limit
+Escalate to the radiation protection officer
+Significant solar particle event
+Radiation shelter protocol
+flag derived here from the dose rate
+Attention lapses above baseline (PVT
+Review performance and fatigue
+Very short average sleep
+Review fatigue and schedule
+Critical work overload
+Replan shift and rest
+Low 25-OH vitamin D
+Interpret bone metabolism and nutrition
+Low serum sodium
+Assess dysnatremia and fluid balance
+High serum sodium
+Assess free water and losses
+High potassium
+Review ECG and causes
+Low potassium
+Assess electrolytes and ECG
+Very low platelets
+Assess bleeding and cytopenia
+Severe neutropenia
+Infection protection and assessment
+Leukocytosis
+Clinical and laboratory correlation
+Leukopenia
+Assess bone marrow and infection
+Elevated TSH
+Request free T4 and assessment
+Low TSH
+Assess free T4, T3 and medication
+Self-reported psychological distress
+Offer a confidential assessment with a professional
+corresponds to SP-0148, switched off in the catalog
+Very low WHO-5 wellbeing index
+Depression screening with a validated instrument and professional assessment
+Reported team conflict
+Mediation and program support
+corresponds to SP-0150, switched off in the catalog
+Ventricular tachycardia
+Irregular rhythm without P wave (possible atrial fibrillation
+Record a 12-lead ECG and consult by telemedicine
+Ventricular ectopic beats
+Watch the frequency of ectopic beats and symptoms
+Prolonged apnea
+Stimulate and check the airway
+Low respiratory rate
+Assess level of consciousness and ventilation
+High respiratory rate at rest
+Look for a cause: pain, fever, hypoxemia
+Elevated dose rate
+Reduce exposure: most shielded area of the cabin
+Check electrode placement
+SpO₂ sensor without signal
+Reposition the sensor on the finger
+Readings in doubt due to motion
+Stay still for a minute and check the sensors
+signal quality
+Closed
+✓ Normalized

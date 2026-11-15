@@ -1,0 +1,211 @@
+Hourly CO2 above the nominal limit
+Hourly CO2 at the nominal limit
+Total cabin pressure below the defined zone
+Total cabin pressure above the defined zone
+Insufficient diluent fraction
+Rapid pressure drop (>1 psi)
+Low cabin inspired O2 as historical reference
+Elevated 7-day mean CO2 for the headache model
+VOC contamination above the mission limit
+Drinking water quality alarm
+Ambient oxygen outside the approved profile
+Temperature and humidity outside the approved zone
+Ventilation flow below standard
+Daily noise exceeds the NASA permitted dose
+Launch/entry level exceeds the noise ceiling
+Insufficient drinking water supplied per crew member
+NASA career effective exposure limit
+Mission projection exceeds the 600 career limit
+Significant solar particle event
+30-day lens dose exceeds the limit
+Annual lens dose exceeds the limit
+Career lens dose exceeds the limit
+30-day blood-forming organ dose exceeds the limit
+Annual circulatory dose exceeds the limit
+Career central nervous system dose exceeds the limit
+Career high-Z CNS dose exceeds the limit
+Prebreathe procedure not complied with
+Symptoms consistent with decompression sickness
+Unplanned EVA pressure change
+Loss of suit integrity
+Unapproved EVA O2 exposure
+HR increase with suit CO2 alarm
+Sustained critical SpO2
+Moderately low SpO2
+Marked individual SpO2 drop
+Low SpO2 during EVA
+Clinical hypoxemia consistent with the cabin
+SpO2 without usable signal
+Classic orthostatism, systolic drop
+Classic orthostatism, diastolic drop
+Very low systolic pressure
+Elevated heart rate at rest
+Extremely elevated heart rate
+Marked bradycardia while awake
+Pressure drop with syncope
+Prolonged post-landing hypotension
+Elevated blood pressure, AHA category
+Stage 1 hypertension by systolic
+Stage 2 hypertension by systolic
+Stage 1 hypertension by diastolic
+Stage 2 hypertension by diastolic
+Severe systolic hypertension
+Severe diastolic hypertension
+PREVENT cardiovascular risk: predictors missing
+Jugular ultrasound: stasis by velocity
+Ultrasound: retrograde flow
+D-dimer increase from baseline in flight
+NASA VTE score ≥2
+NASA VTE score ≥4
+NASA VTE score >6
+Jugular thrombus shown on ultrasound
+New asymmetric facial edema
+OCT subclinical edema, class A
+OCT edema, class B
+Frisén ≥1
+Hyperopic refractive shift
+Choroidal folds
+Globe flattening
+Altered visual field
+Prior SANS history
+OCT missing in long-duration flight
+Hip BMD below 95% of baseline
+Spine BMD below 95% of baseline
+Femoral neck BMD below 90% of baseline
+DXA T-score: osteoporosis
+DXA T-score: osteopenia
+Hypercalciuria flagged by laboratory
+Prolonged interruption of the resistance program
+Overall strength below 80% of baseline
+Lower-body strength below 80% of baseline
+Upper-body strength below 80% of baseline
+Preflight deadlift below the 1.0 body-mass minimum
+Microgravity EVA: deadlift below 1.3 body mass
+Surface EVA: deadlift below 1.6 body mass
+Preflight bench press below 0.7 body mass
+Surface EVA: bench press below 1.0 body mass
+VO2max below the microgravity EVA standard
+VO2max below the surface EVA standard
+VO2max below 80% of baseline
+VO2max not recovered postflight
+Aerobic assessment omitted
+Very low 24-h urine output
+Low weight-adjusted urine output
+Insufficient urine volume for stone prevention
+Hypercalciuria by laboratory
+High calcium oxalate supersaturation
+Stone detected on ultrasound
+Significant acute rise in creatinine
+Creatinine ≥1.5 × baseline in 7 d
+CKD: low eGFR
+Albuminuria ACR A2
+Albuminuria ACR A3
+Energy intake below individual requirement
+Protein intake below requirement
+Body mass 5% below baseline
+Body mass 10% below baseline
+Low 25-OH vitamin D by laboratory
+High serum calcium
+Low serum calcium
+Low serum sodium
+Critically low serum sodium
+High serum sodium
+High potassium
+Low potassium
+Hb decrease >10% from baseline
+Hematocrit reduction >10% from baseline
+Elevated reticulocytes by laboratory
+Elevated LDH by laboratory
+Elevated indirect bilirubin
+Very low platelets
+Severe neutropenia
+Fever with severe neutropenia
+Confirmed fever
+Hypothermia
+High fever
+PCR-positive pathogen
+Markedly elevated CRP
+Leukocytosis
+Leukopenia
+Moderate neutropenia
+Mild interstitial hypoglycemia
+Severe interstitial hypoglycemia
+Interstitial hyperglycemia
+Marked interstitial hyperglycemia
+Time below 70 above target
+Time below 54 above target
+Time in 70–180 below target
+Time above 180 elevated
+High glucose CV
+HbA1c in the diagnostic range
+Very short average sleep
+Average sleep <7 hours
+High circadian misalignment
+Irregular sleep periods
+PVT lapses above baseline
+Critical work overload
+Insufficient sleep before a critical task
+Self-reported psychological deterioration
+Change in cognitive performance
+Team risk from reported conflict
+Low HRV relative to baseline
+Ovulatory phase not applicable or unobservable
+Pregnancy confirmed in mission context
+Hormone therapy with relevant thrombotic risk
+Unexplained amenorrhea
+Thyroid dysfunction: elevated TSH
+Low TSH by laboratory
+Progesterone abnormal for phase
+Balance test outside baseline
+Abnormal gait after landing
+Reported spatial disorientation
+Nausea / motion sickness
+Recorded fall
+Altered hand-eye coordination test
+Very high body temperature
+Falling body temperature
+High temperature with thermal exposure
+Fluid loss during EVA
+Unvalidated cuffless blood pressure
+CGM sensor with insufficient quality
+Mass measured as gravitational weight without correction
+SpO2: possible artifact
+Cabin environment data missing
+OCT data missing
+Radiation dosimetry data missing
+VTE score predictors missing
+Mission phase undefined
+Uncalibrated sensor
+Ultrasound for jugular thrombosis missing
+DXA for bone remodeling missing
+Audiometry for acoustic ototoxicity missing
+Neurocognitive assessment missing
+Balance assessment missing
+Resting HR relative increase ≥20% from baseline
+HRV relative drop ≥30%
+Mean BP relative increase ≥10%
+SpO2 drop of 3 points from baseline
+Body mass drop ≥3% from baseline
+Abnormal resting HR coefficient of variation
+Postflight change in baseline pressure
+Composite hemodynamic compromise
+ECG-confirmed tachyarrhythmia
+Reported chest pain
+Focal neurological signs
+Suspected anaphylactic reaction
+Glucose with elevated ketones
+Audiometry: clinical threshold shift
+New tinnitus
+High acoustic dosimeter reading
+SPE design reference dose exceeds the maximum
+Annual nuclear technology contribution above the limit
+Free-space GCR rate above the design limit
+Planetary-surface GCR rate above the design limit
+30-day circulatory dose above the limit
+Career circulatory dose above the limit
+30-day CNS dose above the limit
+Annual CNS dose above the limit
+Annual CNS dose from Z>=10 particles
+30-day skin dose exceeds the maximum
+One-year skin dose exceeds the maximum
+Career skin dose exceeds the maximum
